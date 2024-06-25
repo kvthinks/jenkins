@@ -2,7 +2,7 @@
 FROM tomcat  
 
 # Maintainer
-MAINTAINER "Vijay hi Mr. Gawate" 
+MAINTAINER "Vijay hi Mr. Gawate, how are you?" 
 
 # To expose port 
 EXPOSE 8090
